@@ -2,6 +2,8 @@
 
 A simple command-line tool for tracking tasks in a JSON file, allowing you to add, update, delete, and list tasks based on their status.
 
+This is part of the backend engineer project series on roadmap.sh [Task-Tracker-CLI](https://roadmap.sh/projects/task-tracker)
+
 ## Features
 
 - **Add** tasks with a description
